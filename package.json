@@ -4,7 +4,7 @@
   "description": "Um projeto pra aprender a fazer de fora a fora um projeto grande do 0.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",

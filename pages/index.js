@@ -1,6 +1,6 @@
 function Home() 
 {
-    return <h1>Você é pobrinha, mas é do bem</h1>
+    return <h1>Você é pobrinha, mas é do bem!</h1>
 }
 
 export default Home; //com o default podemos dizer

@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Eu amo amar você mesmo você não tomando banho. 717 dias.</h1>
+    return <h1>VOCÊ É UM MULHERÃO INCRIVEL, UMA GATA, CHEIROSA, GOSTOSA, A COSIA MAIS LINDA DESSE UNIVERSO E EU AMO AMAR VOCÊ PS.: ODIEI NÃO TE VER HOJE, NÃO FAREI MAIS ISSO, NÃO TA COMPENSANDO</h1>
 }
 
 export default Home;
